@@ -1,11 +1,7 @@
-# Strategic Discovery Map
-
-> **Module 1 · Lab 1.** Repo file `01-product-thinking/strategic-map.md` — part of your submission.
-> Do the lab in the **Module 1 · Exercise 1 Guide** (linked from the Module 1 deck), then click **⬇ Download .md** — it saves as this exact file. Commit it here.
-> It's the discovery groundwork behind your `problem-hook.md`.
+# Strategic Discovery Map (Module 1)
 
 ## Responses
-
-- **Feature with no strategic answer (why is this a 12-week priority?):** _(not filled in)_
-- **Feature that looks "correct" but has zero strategic weight:** _(not filled in)_
-- **V3 vs your Step 1 baseline — what changed, and was it your PM knowledge that forced usefulness?:** _(not filled in)_
+- **Write one feature from the map that, if an engineer asked “why is this a priority for our 12-week roadmap?”, you honestly could not give a strategic answer for.:** Smart bottles integration does not make sense to prioritize, as potential users with such bottles will be fairly low & there would be high cost of development and maintenance since there is no standard.
+- **Write one feature that looks “correct” for the app but has zero strategic weight, you have no idea if it helps the company make money or whether a single user actually asked for it.:** Beverage types other than water - Although most people get a large share of their daily fluid from coffee, tea, milk, juice, and soda, but there is no evidence if users actually expect this from a hydration app. It causes development complexity and also makes the interface complicated.
+- **Compare V3 to your Step 1 baseline. What changed, and is the output objectively better, did the AI get smarter, or did your added PM knowledge (JTBD, effort/impact, retention) force it to be useful?:** More context made the output better - Who the persona is, what is the intent, what type of information am I expecting etc.
+- **Key takeaway: how does this prove the PM’s role is to think while the AI’s role is to execute?:** PM is the one who is providing the prompt with context and instructions to AI. AI is only as smart as the information you provide.
