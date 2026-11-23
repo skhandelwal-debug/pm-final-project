@@ -38,7 +38,9 @@ _Hypothesis to validate in discovery. This is inferred and is not stated in the 
 
 ## 7. Finalized hypothesis _(complete in Module 3)_
 
-> Based on [qual + quant evidence], I believe that [solving X] for [persona] will result in [outcome], as measured by a [X%] change in [success metric]. I will protect [guardrail metric] and make a go/no-go decision after [decision window].
+> Based on only 48% of coordinators completing compliance logging in-app (14.6 min vs a 3-min benchmark), 31 minutes lost daily, Coordinator NPS falling from +18 to −12, and interviews showing the WhatsApp group has become "the real system", we believe that solving compliance logging that takes nearly 5× the benchmark time for Fleet Coordinators will result in coordinators completing their daily workflow inside RouteLogic instead of workarounds, cutting time lost and complexity-driven churn risk, as measured by a 22-point increase in in-app compliance completion (48% to 70%). We will protect compliance data accuracy and Manager Reporting CSAT (≥ 4.3) and make a go/no-go decision after a 6-week pilot with at least 30 coordinators, scaling if completion reaches 65% or more.
+
+_Persona updated from Frontline Driver (M2) to Fleet Coordinator after reconciling with the M3 data._
 
 ## Link to full artifact
 
